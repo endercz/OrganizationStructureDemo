@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OrganizationStructure.Data
+﻿namespace OrganizationStructure.Data
 {
   public class Person
   {
